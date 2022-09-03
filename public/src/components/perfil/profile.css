@@ -1,0 +1,66 @@
+@font-face {
+    font-family: GothamBook;
+    src: url('./public/fonts/GothamBook.ttf');
+}
+
+.logo{
+    width: 25%;
+    height: auto;
+}
+
+.bar{
+    width: 5%;
+    height: auto;
+}
+
+.infoPic{
+    width: 25%;
+    height: auto;
+}
+
+
+.name{
+    font-family: "GothamBook";
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+}
+
+.age{
+    font-family: "Gotham";
+    color:rgb(255, 255, 255);
+    font-size: 15pt;
+}
+
+.job{
+    font-family: "Gotham";
+    color:rgb(255, 255, 255);
+    font-size: 5pt;
+}
+
+.location{
+    font-family: "Gotham";
+    color:rgb(255, 255, 255);
+    font-size: 5pt;
+}
+
+.distance{
+    font-family: "Gotham";
+    color:rgb(255, 255, 255);
+    font-size: 5pt;
+}
+
+.smallIcons{
+    width: 5%;
+    height: auto;
+}
+
+.bigIcons{
+    width: 25%;
+    height: auto;
+}
+
+.LowBttns{
+    width: 25%;
+    height: auto;
+}
+

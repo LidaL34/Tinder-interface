@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Gotham;
+    src: url(fonts/Gotham.ttf);
+}
+
+.button{
+    position: relative;
+    bottom: 13165px;
+    left: 406px;
+    width: 100px;
+    height: 100px;
+
+    border: none;
+    background-color: rgba(0, 128, 0, 0.267);
+    border-radius: 50%;
+    transition-duration: 0.4s;
+
+}
+
+.button:hover{
+    background-color: rgba(140, 236, 140, 0.507);
+    
+}
+
+
+.counter{
+    font-family: 'Gotham';
+    position: relative;
+    bottom: 13165px;
+    left: 722px;
+}
